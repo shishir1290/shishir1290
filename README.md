@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Pakiza Software Limited](https://pakizasoftware.com/)
 
-- 💬 Ask me about Web Application Specially on Backend **NodeJS, React, NestJS, NextJS**
+- 💬 Ask me about Web Application Specially on Backend **NodeJS, React, NestJS, NextJS, Golang**
 
 - 📫 To reach me, send an email to **shishir1290@gmail.com**
 
