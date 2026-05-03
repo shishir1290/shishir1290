@@ -11,7 +11,7 @@
 
 <h2>Career Summary</h2>
 
-- Results-driven developer with 0.2 years of job experience in web application development.
+- Results-driven developer with 1.8 years of job experience in web application development.
 
 ## Current Stats
 
